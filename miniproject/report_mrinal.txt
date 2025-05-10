@@ -1,0 +1,19 @@
+--- Medical Report ---
+Patient Name: Mrinal
+Phone Number: 7249648254
+City: Pune
+Date: 2025-04-13 17:58:26
+
+Predicted Disease: Unknown
+Recommended Doctor: General Physician
+Advice: Consult doctor immediately
+First Aid Tips: No specific first aid. Visit nearest hospital.
+Nearest Hospital: Deenanath Mangeshkar Hospital
+Severity Level: Moderate
+
+Emergency Contacts:
+  Ambulance: 102
+  Police: 100
+  Fire: 101
+
+General Health Tip: Stay hydrated, avoid junk food, regular exercise.
